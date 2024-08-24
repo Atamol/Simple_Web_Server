@@ -17,4 +17,4 @@ Visit http://localhost:8080/{yourname} in your web browser, and you will see:
 Hello, you've reached {yourname}!
 ```
 ## Requirements
-`Go` installed on your machine.
+[Go](https://go.dev/) installed on your machine.
