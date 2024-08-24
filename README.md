@@ -16,3 +16,5 @@ Visit http://localhost:8080/{yourname} in your web browser, and you will see:
 ```text
 Hello, you've reached {yourname}!
 ```
+## Requirements
+`Go` installed on your machine.
