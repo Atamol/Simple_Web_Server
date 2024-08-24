@@ -1,4 +1,5 @@
-# Create simple web server
+# Simple web server
+This is a basic [Go](https://go.dev/) web server that responds with a greeting message based on the URL path.
 
 ## Usage
 
